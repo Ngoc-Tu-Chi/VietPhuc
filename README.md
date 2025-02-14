@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="UTF-8">
@@ -115,7 +115,7 @@
         </li>
         <li>
             <table id="Ao_tac"></table>
-            Áo Tấc </br>
+            Áo Tấc 
             <center><img class="mfp-img" alt="áo giao lãnh" src="https://aodaisago.com/wp-content/uploads/2020/08/ao-giao-lanh1.jpg" style="max-height: 695px;"></center>
             <p>Áo Tấc là một loại trang phục đặc thù của thời Nguyễn, có lịch sử hình thành khoảng trên dưới 300 năm, gắn liền với công cuộc cải cách và định chế trang phục ở Đàng Trong của Chúa Nguyễn Phúc Khoát.</p>
             <p>Áo Tấc là tên gọi phổ biến của loại áo ngũ thân tay rộng, và còn có các tên gọi khác như áo lễ, áo thụng, áo rộng…Cũng như loại áo ngũ thân tay chẽn, áo Tấc dành cho cả hai giới nam và nữ, và cho mọi tầng lớp trong xã hội, không phân biệt đẳng cấp, sang hèn. Sự phân biệt chủ yếu chỉ thể hiện ở chất liệu, màu sắc, hoa văn trang trí và các phụ kiện kèm theo. Nhưng khác với áo ngũ thân tay chẽn, vốn là loại thường phục (hay tiện phục), áo Tấc thường chỉ dùng trong các nghi lễ thuộc quan, hôn, tang, tế hay các dịp lễ hội lớn, ngày tết…chứ ít khi sử dụng hàng ngày trong đời sống bình thường. Áo Tấc cũng đi kèm với khăn vấn (hoặc khăn đóng) đội đầu hay mũ tú tài đối với nam giới, mũ phượng, khăn vấn đối với nữ giới và mặc quần màu trắng, rộng </p>
