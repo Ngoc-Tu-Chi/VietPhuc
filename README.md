@@ -19,7 +19,7 @@
             align-items: center;
             justify-content: center;
             position: relative;
-            font-family: 'Times New Roman', Times, serif;
+            font-family: 'Times New Roman';
         }
             /* Tạo lớp phủ mờ nhằm tăng độ tương phản cho chữ */
             .banner::after {
@@ -121,7 +121,7 @@
             <p>Áo Tấc là tên gọi phổ biến của loại áo ngũ thân tay rộng, và còn có các tên gọi khác như áo lễ, áo thụng, áo rộng…Cũng như loại áo ngũ thân tay chẽn, áo Tấc dành cho cả hai giới nam và nữ, và cho mọi tầng lớp trong xã hội, không phân biệt đẳng cấp, sang hèn. Sự phân biệt chủ yếu chỉ thể hiện ở chất liệu, màu sắc, hoa văn trang trí và các phụ kiện kèm theo. Nhưng khác với áo ngũ thân tay chẽn, vốn là loại thường phục (hay tiện phục), áo Tấc thường chỉ dùng trong các nghi lễ thuộc quan, hôn, tang, tế hay các dịp lễ hội lớn, ngày tết…chứ ít khi sử dụng hàng ngày trong đời sống bình thường. Áo Tấc cũng đi kèm với khăn vấn (hoặc khăn đóng) đội đầu hay mũ tú tài đối với nam giới, mũ phượng, khăn vấn đối với nữ giới và mặc quần màu trắng, rộng </p>
         </li>
         <li>
-            Áo Nhật Bình </br>
+            Áo Nhật Bình 
             <table id="Ao_nhat_binh"></table>
             <center><img alt="" src="https://pubcdn.ivymoda.com/files/news/2022/11/07/01e8dd9c6537928708742f284e1b7018.png" style="width: 855px; height: 655px;"></center>
             <p>Áo Nhật Bình là một lễ phục của phụ nữ Việt Nam xưa, đặc biệt là dưới triều Nguyễn. Áo Nhật Bình không mềm mại hay thướt tha như áo dài mà mang lại vẻ uy nghi, trang trọng. Có nhiều nghiên cứu cho rằng kiểu dáng thiết kế đặc trưng tên gọi Nhật Bình được cho là bắt nguồn từ hình dáng vạt cổ áo. Khi mặc hoàn chỉnh phần trước ngực vừa hay ghép lại thành 1 hình chữ nhật cho nên mới lấy tên là Nhật Bình để đặt cho mẫu áo này. </p>
